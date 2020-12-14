@@ -12,7 +12,8 @@
 8. Lorem ipsum
 9. vscode-icons/Material Icon Theme
 10. GitLens
-11. Conclusion
+
+CDN Links for testing _IntelliSense for CSS class names in HTML_
 
 ```html
 <link
