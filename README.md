@@ -40,10 +40,3 @@
   href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.9/js/uikit.min.js"
 />
 ```
-
-## Conclusion
-
-1. You can find a link to code on GitHub below in the description of this video
-2. Don't forget to like, comment, subscribe and share so we can keep bring you this free content.
-3. What would you like to see next?
-4. Alright, so you all on the next one! Happy Coding!
